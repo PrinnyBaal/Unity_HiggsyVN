@@ -1,0 +1,25 @@
+{
+  "name": "com.prinny.higgsy_vn",
+  "version": "1.0.0",
+  "displayName": "HiggsyVN",
+  "description": "A package for creating visual novel style scenes in Unity (Does not currently include means of saving/loading, focusing only on the basic of displaying dialogue, changing backgrounds, etc.)",
+  "unity": "2019.1",
+  "unityRelease": "0b5",
+  "documentationUrl": "https://example.com/",
+  "changelogUrl": "https://example.com/changelog.html",
+  "licensesUrl": "https://example.com/licensing.html",
+  "dependencies": {
+    "com.unity.textmeshpro": "",
+    "com.unity.inputsystem": ""
+  },
+  "keywords": [
+    "Higgsy",
+    "Visual Novel",
+    "Dialogue"
+  ],
+  "author": {
+    "name": "Prinny",
+    "email": "unity@example.com",
+    "url": "https://www.unity3d.com"
+  }
+}
